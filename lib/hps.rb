@@ -3,6 +3,7 @@ require 'net/http'
 require 'net/https'
 require "hps/version"
 require "hps/configuration"
+require "hps/hash"
 
 # Entities
 require "hps/entities/hps_transaction"

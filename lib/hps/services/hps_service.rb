@@ -1,5 +1,3 @@
-require 'active_support/core_ext/hash/conversions'
-
 module Hps
 	class HpsService
 
